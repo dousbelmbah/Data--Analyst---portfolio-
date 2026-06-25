@@ -43,63 +43,57 @@ I am continuously expanding my expertise in analytics, business intelligence, an
 ### 👥 HR Analytics Dashboard
 **Tools:** Power BI, Excel
 
-Analyzed workforce data to monitor employee demographics, attrition trends, workforce distribution, and HR performance metrics.
+Analyzed employee demographics, attrition, hiring trends, and workforce performance to support HR decision-making.
 
-### 🏨 Hotel Performance Dashboard
+### 📊 Sales Performance & Forecasting Dashboard
 **Tools:** Power BI, Excel
 
-Developed an interactive dashboard to evaluate occupancy rates, booking trends, revenue performance, and operational efficiency.
+Tracked revenue, profit, sales trends, and forecasted future performance using historical sales data.
 
-### 📊 Sales Forecasting & Performance Dashboard
+### 🏨 Hotel Performance Analytics Dashboard
 **Tools:** Power BI, Excel
 
-Analyzed sales performance and historical trends to track KPIs, identify growth opportunities, and support forecasting.
+Evaluated occupancy rates, booking trends, revenue performance, and customer behavior to identify operational improvement opportunities.
 
-### 🗃 SQL Data Exploration Project
+### 🗃 SQL Business Intelligence Case Study
 **Tools:** SQL
 
-Performed data extraction, transformation, and analysis to answer business questions and generate actionable insights.
+Performed advanced data exploration, business reporting, and KPI analysis using joins, aggregations, subqueries, and window functions.
 
-### 🐍 Python Data Analysis Project
-**Tools:** Python, Pandas, Matplotlib
+### 🏪 E-Commerce Sales & Customer Analytics
+**Tools:** SQL, Power BI, Python
 
-Applied data cleaning, exploratory data analysis, and visualization techniques to identify patterns and support decision-making.
-
-### 🏪 E-Commerce Analytics Dashboard
-**Status:** In Progress
-
-Analyzing customer behavior, sales performance, product trends, and key business metrics.
-
-### 🛒 Retail Sales Analysis
-**Status:** In Progress
-
-Evaluating revenue performance, product sales trends, and customer purchasing patterns.
-
-### 📈 Marketing Campaign Performance Dashboard
-**Status:** In Progress
-
-Measuring campaign effectiveness, conversion rates, customer acquisition performance, and marketing ROI.
-
-### 🏦 Financial Performance Dashboard
-**Status:** In Progress
-
-Tracking revenue, expenses, profitability, and financial KPIs to support business performance analysis.
-
-### 📦 Supply Chain & Inventory Dashboard
-**Status:** In Progress
-
-Monitoring inventory levels, stock movement, supplier performance, and operational efficiency.
+Analyzed customer purchasing behavior, product performance, revenue trends, customer lifetime value, and retention metrics.
 
 ### 💳 Customer Segmentation Analysis
-**Status:** In Progress
+**Tools:** Python, SQL
 
-Using analytical techniques to identify customer groups and support targeted business strategies.
+Segmented customers based on purchasing patterns to identify high-value, loyal, new, and at-risk customers for targeted business strategies.
+
+### 📈 Marketing Campaign Performance Dashboard
+**Tools:** Power BI, Excel
+
+Measured campaign effectiveness using conversion rates, customer acquisition costs, return on investment (ROI), and channel performance metrics.
+
+### 🏦 Financial Performance Dashboard
+**Tools:** Power BI, Excel
+
+Tracked revenue, expenses, profit margins, budget performance, and key financial KPIs to support business growth and profitability analysis.
+
+### 📦 Supply Chain & Inventory Analytics Dashboard
+**Tools:** Power BI, SQL
+
+Monitored inventory levels, stock turnover, supplier performance, fulfillment efficiency, and inventory-related risks.
 
 ### 🚚 Logistics & Delivery Performance Dashboard
-**Status:** In Progress
+**Tools:** Power BI, SQL
 
-Analyzing delivery performance, operational efficiency, and logistics metrics.
+Analyzed delivery times, shipping costs, on-time delivery rates, and operational efficiency to improve logistics performance.
 
+### 🎯 Business KPI Executive Dashboard
+**Tools:** Power BI, SQL
+
+Developed an executive-level dashboard that consolidated key business metrics, including revenue, profit, customer growth, operational efficiency, and performance KPIs for strategic decision-making.
 ## 📊 Core Competencies
 
 ✔ Data Cleaning & Preparation
